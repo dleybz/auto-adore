@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/7946482/225440356-c10feccb-24ef-412a-b696-9275a6fd896c.png)
+
 ## Description
 This simple project leverages the OpenAI GPT-3 and Twilio SMS APIs to:
 1. Generate a sweet, short poem
